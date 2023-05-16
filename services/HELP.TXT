@@ -1,7 +1,0 @@
-Folder name convention
-
-Customers documents:
-    Clienza/Customers > Folder convention inside:
-        /Applications
-        /Policies > then
-            /`${first_name} ${last_name} - ${id}`
