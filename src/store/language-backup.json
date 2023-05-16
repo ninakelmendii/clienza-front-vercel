@@ -1,0 +1,1117 @@
+[
+    {
+        "english": "Log In",
+        "german": "Einloggen"
+    },
+    {
+        "english": "Sign Up",
+        "german": "Anmelden"
+    },
+    {
+        "english": "Email",
+        "german": "E-Mail Adresse"
+    },
+    {
+        "english": "Your email",
+        "german": "Ihre E-Mail"
+    },
+    {
+        "english": "Password",
+        "german": "Kennwort"
+    },
+    {
+        "english": "Remember me",
+        "german": "Erinnern Sie sich an mich"
+    },
+    {
+        "english": "Forgot password?",
+        "german": "Passwort vergessen?"
+    },
+    {
+        "english": "Don’t have an account?",
+        "german": "Sie haben noch kein Konto?"
+    },
+    {
+        "english": "Register",
+        "german": "Anmelden"
+    },
+    {
+        "english": "First name",
+        "german": "Vorname"
+    },
+    {
+        "english": "Last name",
+        "german": "Nachname"
+    },
+    {
+        "english": "Repeat password ",
+        "german": "Passwort wiederholen "
+    },
+    {
+        "english": "Join our community",
+        "german": "Unserer Gemeinschaft beitreten"
+    },
+    {
+        "english": "Dashboard",
+        "german": "Dashboard"
+    },
+    {
+        "english": "Costumers",
+        "german": "Kunden"
+    },
+    {
+        "english": "Contracts",
+        "german": "Verträge"
+    },
+    {
+        "english": "Offers",
+        "german": "Angebote"
+    },
+    {
+        "english": "Calendar",
+        "german": "Kalender"
+    },
+    {
+        "english": "Leads",
+        "german": "Leads"
+    },
+    {
+        "english": "Feedback",
+        "german": "Feedback"
+    },
+    {
+        "english": "Tasks",
+        "german": "Aufgaben"
+    },
+    {
+        "english": "Billing",
+        "german": "Billing"
+    },
+    {
+        "english": "Statistics",
+        "german": "Statistik"
+    },
+    {
+        "english": "Help",
+        "german": "Hilfe"
+    },
+    {
+        "english": "Phone",
+        "german": "Telefon"
+    },
+    {
+        "english": "Documents",
+        "german": "Dokumente"
+    },
+    {
+        "english": "Mandate",
+        "german": "Mandanten"
+    },
+    {
+        "english": "Telefonparty",
+        "german": "Telefonparty"
+    },
+    {
+        "english": "Search name",
+        "german": "Name suchen"
+    },
+    {
+        "english": "Telefonparty",
+        "german": "Telefonparty"
+    },
+    {
+        "english": "Search name",
+        "german": "Name suchen"
+    },
+    {
+        "english": "Search",
+        "german": "Suchen"
+    },
+    {
+        "english": "Date of birth",
+        "german": "Geburtsdatum"
+    },
+    {
+        "english": "Weather",
+        "german": "Wetter"
+    },
+    {
+        "english": "Today",
+        "german": "Heute"
+    },
+    {
+        "english": "Tomorrow",
+        "german": "Morgen"
+    },
+    {
+        "english": "Monday",
+        "german": "Montag"
+    },
+    {
+        "english": "Tuesday",
+        "german": "Dienstag"
+    },
+    {
+        "english": "Wednesday",
+        "german": "Mittwoch"
+    },
+    {
+        "english": "Thursday",
+        "german": "Donnerstag"
+    },
+    {
+        "english": "Friday",
+        "german": "Freitag"
+    },
+    {
+        "english": "Saturday",
+        "german": "Samstag"
+    },
+    {
+        "english": "Sunday",
+        "german": "Sonntag"
+    },
+    {
+        "english": "New leads",
+        "german": "Neue Lead"
+    },
+    {
+        "english": "Leads",
+        "german": "Lead"
+    },
+    {
+        "english": "Callbacks",
+        "german": "Rückrufe"
+    },
+    {
+        "english": "Completed",
+        "german": "Abgeschlossene"
+    },
+    {
+        "english": "Total leads",
+        "german": "Leads insgesamt"
+    },
+    {
+        "english": "No tasks",
+        "german": "Keine Aufgaben"
+    },
+    {
+        "english": "Date added",
+        "german": "Datum hinzugefügt"
+    },
+    {
+        "english": "Date Applied",
+        "german": "Antragsdatum"
+    },
+    {
+        "english": "Date",
+        "german": "Datum"
+    },
+    {
+        "english": "Actions",
+        "german": "Aktionen"
+    },
+    {
+        "english": "Birthday",
+        "german": "Geburtstag"
+    },
+    {
+        "english": "Place",
+        "german": "Ort"
+    },
+    {
+        "english": "Phone",
+        "german": "Telefon"
+    },
+    {
+        "english": "Info",
+        "german": "Info"
+    },
+    {
+        "english": "Status",
+        "german": "Status"
+    },
+    {
+        "english": "All",
+        "german": "Alle"
+    },
+    {
+        "english": "Number of costumers",
+        "german": "Anzahl der Kunden"
+    },
+    {
+        "english": "Anzahl total",
+        "german": "Anzahl insgesamt"
+    },
+    {
+        "english": "Pending",
+        "german": "Ausstehend"
+    },
+    {
+        "english": "Approved",
+        "german": "Genehmigt"
+    },
+    {
+        "english": "Declined",
+        "german": "Abgelehnt"
+    },
+    {
+        "english": "Insurance",
+        "german": "Versicherung"
+    },
+    {
+        "english": "Last change",
+        "german": "Letzte Bearbeitung"
+    },
+    {
+        "english": "Sent on",
+        "german": "Gesendet am"
+    },
+    {
+        "english": "Type",
+        "german": "Typ"
+    },
+    {
+        "english": "Sach und leben",
+        "german": "Sach und leben"
+    },
+    {
+        "english": "Request offers",
+        "german": "Offerten anfragen"
+    },
+    {
+        "english": "Health insurance",
+        "german": "Krankenkasse "
+    },
+    {
+        "english": "All leads",
+        "german": "Alle Leads "
+    },
+    {
+        "english": "New leads",
+        "german": "Neue leads"
+    },
+    {
+        "english": "Call back",
+        "german": "Rückrufe"
+    },
+    {
+        "english": "Invalid lead",
+        "german": "Ungültiger Lead"
+    },
+    {
+        "english": "Double",
+        "german": "Doppeltes"
+    },
+    {
+        "english": "Not reached",
+        "german": "Nicht erreicht"
+    },
+    {
+        "english": "Not interested",
+        "german": "Nicht interessiert"
+    },
+    {
+        "english": "Not consulted",
+        "german": "Nicht konsultiert"
+    },
+    {
+        "english": "Scheduled 1st visit",
+        "german": "Geplanter 1. Besuch"
+    },
+    {
+        "english": "Visited 1st time",
+        "german": "1. Mal besucht"
+    },
+    {
+        "english": "Offer sent",
+        "german": "Angebot gesendet"
+    },
+    {
+        "english": "Pending ",
+        "german": "Ausstehend "
+    },
+    {
+        "english": "Accepted offer",
+        "german": "Angenommenes Angebot "
+    },
+    {
+        "english": "Scheduled 2nd visit",
+        "german": "Geplanter 2. Besuch"
+    },
+    {
+        "english": "Visited 2st time",
+        "german": "2. Mal besucht"
+    },
+    {
+        "english": "Completed",
+        "german": "Abgeschlossen"
+    },
+    {
+        "english": "Select date",
+        "german": "Datum wählen"
+    },
+    {
+        "english": "Canton",
+        "german": "Kanton"
+    },
+    {
+        "english": "Created date ",
+        "german": "Erstelltes Datum "
+    },
+    {
+        "english": "Agent",
+        "german": "Berater"
+    },
+    {
+        "english": "Status",
+        "german": "Status"
+    },
+    {
+        "english": "Takes place on ",
+        "german": "Erledigt am "
+    },
+    {
+        "english": "Show completed task",
+        "german": "Erledigte Aufgabe anzeigen"
+    },
+    {
+        "english": "Note",
+        "german": "Hinweis"
+    },
+    {
+        "english": "Category",
+        "german": "Kategorie"
+    },
+    {
+        "english": "Explanatory videos",
+        "german": "Erläuternde Videos"
+    },
+    {
+        "english": "Salutation",
+        "german": "Anrede"
+    },
+    {
+        "english": "Street",
+        "german": "Strasse"
+    },
+    {
+        "english": "Source",
+        "german": "Quelle"
+    },
+    {
+        "english": "Actual insurance",
+        "german": "Aktuell Versicherung"
+    },
+    {
+        "english": "Day",
+        "german": "Tag"
+    },
+    {
+        "english": "Week",
+        "german": "Woche"
+    },
+    {
+        "english": "Month",
+        "german": "Monat"
+    },
+    {
+        "english": "Days",
+        "german": "Tage"
+    },
+    {
+        "english": "Add event",
+        "german": "Event hinzufügen"
+    },
+    {
+        "english": "Add PDF file",
+        "german": "PDF-Datei hinzufügen"
+    },
+    {
+        "english": "Status color",
+        "german": "Statusfarbe"
+    },
+    {
+        "english": "Create user",
+        "german": "Brater hinzufügen "
+    },
+    {
+        "english": "Rows per page",
+        "german": "Zeilen pro Seite"
+    },
+    {
+        "english": "No data available",
+        "german": "Keine Daten verfügbar"
+    },
+    {
+        "english": "Active",
+        "german": "Aktiv"
+    },
+    {
+        "english": "Disabled",
+        "german": "Behindert"
+    },
+    {
+        "english": "Role",
+        "german": "Rolle"
+    },
+    {
+        "english": "Are you sure you want to delete this item?",
+        "german": "Möchten Sie dieses Element wirklich löschen?"
+    },
+    {
+        "english": "cancel",
+        "german": "abbrechen"
+    },
+    {
+        "english": "Update",
+        "german": "Aktualisieren"
+    },
+    {
+        "english": "1 of 12",
+        "german": "1 von 12"
+    },
+    {
+        "english": "Policies",
+        "german": "Richtlinien"
+    },
+    {
+        "english": "Type",
+        "german": "Typ"
+    },
+    {
+        "english": "Archived",
+        "german": "Archiviert"
+    },
+    {
+        "english": "Commissioned",
+        "german": "Beauftragt"
+    },
+    {
+        "english": "Commissions",
+        "german": "Provisionen"
+    },
+    {
+        "english": "End",
+        "german": "Ende"
+    },
+    {
+        "english": "Beginning",
+        "german": "Anfang"
+    },
+    {
+        "english": "Update",
+        "german": "Aktualisierung"
+    },
+    {
+        "english": "Price",
+        "german": "Preis"
+    },
+    {
+        "english": "Franchise",
+        "german": "Franchise"
+    },
+    {
+        "english": "And 5 more errors",
+        "german": "Und 5 weitere Fehler"
+    },
+    {
+        "english": "The “first name” field is required",
+        "german": "Das Feld 'Vorname' ist erforderlich "
+    },
+    {
+        "english": "Family member",
+        "german": "Familienmitglied"
+    },
+    {
+        "english": "Family members",
+        "german": "Familienmitglider"
+    },
+    {
+        "english": "Customer name",
+        "german": "Kundenname"
+    },
+    {
+        "english": "Add family member",
+        "german": "Familienmitglied hinzufügen"
+    },
+    {
+        "english": "Notification",
+        "german": "Benachrichtigung"
+    },
+    {
+        "english": "Profile",
+        "german": "Profil"
+    },
+    {
+        "english": "Log out",
+        "german": "Abmelden"
+    },
+    {
+        "english": "No tasks",
+        "german": "Keine Aufgaben"
+    },
+    {
+        "english": "File input",
+        "german": "Datei-Eingabe"
+    },
+    {
+        "english": "0 files",
+        "german": "0 Dateien"
+    },
+    {
+        "english": "0 B in total",
+        "german": "0 B insgesamt"
+    },
+    {
+        "english": "Import",
+        "german": "Importieren"
+    },
+    {
+        "english": "Download sample list",
+        "german": "Musterliste herunterladen "
+    },
+    {
+        "english": "Not found",
+        "german": "Nicht gefunden"
+    },
+    {
+        "english": "The resource requested could not be found on this server",
+        "german": "Die angeforderte Ressource konnte nicht auf diesem Server gefunden werden"
+    },
+    {
+        "english": "Persons",
+        "german": "Personen"
+    },
+    {
+        "english": "Eigener lead",
+        "german": "Eigene Führung"
+    },
+    {
+        "english": "Fb kampange",
+        "german": "Fb kampange"
+    },
+    {
+        "english": "Help friends",
+        "german": "Freunde helfen"
+    },
+    {
+        "english": "Weiterempfehlungen",
+        "german": "Weiterempfehlungen"
+    },
+    {
+        "english": "Call- extern",
+        "german": "Anrufe extern"
+    },
+    {
+        "english": "Call-backup",
+        "german": "Rückrufservice"
+    },
+    {
+        "english": "Call",
+        "german": "Anrufen"
+    },
+    {
+        "english": "Actual insurance company",
+        "german": "Aktuelle Versicherungsgesellschaft"
+    },
+    {
+        "english": "Insurance company",
+        "german": "Versicherungsgesellschaft"
+    },
+    {
+        "english": "Admin",
+        "german": "Verwaltung"
+    },
+    {
+        "english": "Task name",
+        "german": "Name der Aufgabe"
+    },
+    {
+        "english": "Agents list",
+        "german": "Liste der Beraters"
+    },
+    {
+        "english": "To get done",
+        "german": "Zu erledigen"
+    },
+    {
+        "english": "Done",
+        "german": "Erledigt"
+    },
+    {
+        "english": "Open",
+        "german": "öffnen"
+    },
+    {
+        "english": "Obtain documents",
+        "german": "Dokumente beschaffen"
+    },
+    {
+        "english": "Attachment",
+        "german": "Anlage"
+    },
+    {
+        "english": "Upload",
+        "german": "Hochladen "
+    },
+    {
+        "english": "Please select a file",
+        "german": "Bitte wählen Sie eine Datei aus"
+    },
+    {
+        "english": "Reach by",
+        "german": "Erreichen durch"
+    },
+    {
+        "english": "Top achiever of the month",
+        "german": "Spitzenreiter des Monats"
+    },
+    {
+        "english": "From",
+        "german": "Von"
+    },
+    {
+        "english": "To",
+        "german": "Bis"
+    },
+    {
+        "english": "Download",
+        "german": "Herunterladen"
+    },
+    {
+        "english": "Insurance package",
+        "german": "Versicherungspaket"
+    },
+    {
+        "english": "Agent name",
+        "german": "Name des Beraters"
+    },{
+        "english": "Finish",
+        "german": "Fertigstellen"
+    },
+    {
+        "english": "Pay sub",
+        "german": "Sub bezahlen"
+    },
+    {
+        "english": "Total",
+        "german": "Gesamt"
+    },
+    {
+        "english": "Title",
+        "german": "Titel"
+    },
+    {
+        "english": "Feedback zu spat",
+        "german": "Feedback zu spucken"
+    },
+    {
+        "english": "Show completed tasks",
+        "german": "Erledigte Aufgaben anzeigen"
+    },
+    {
+        "english": "Costumer name",
+        "german": "Kundenname"
+    },
+    {
+        "english": "January",
+        "german": "Januar"
+    },
+    {
+        "english": "February",
+        "german": "Februar"
+    },
+    {
+        "english": "March",
+        "german": "März"
+    },
+    {
+        "english": "April",
+        "german": "April"
+    },
+    {
+        "english": "May",
+        "german": "Mai"
+    },
+    {
+        "english": "June",
+        "german": "Juni"
+    },
+    {
+        "english": "July",
+        "german": "Juli"
+    },
+    {
+        "english": "August",
+        "german": "August"
+    },
+
+    {
+        "english": "September",
+        "german": "September"
+    },
+    {
+        "english": "October",
+        "german": "Oktober"
+    },
+    {
+        "english": "November",
+        "german": "November"
+    },
+    {
+        "english": "December",
+        "german": "Dezember"
+    },
+    {
+        "english": "Data updated successfully",
+        "german": "Daten erfolgreich aktualisiert"
+    },
+    {
+        "english": "Präsentation",
+        "german": "Vorstellung"
+    },
+    {
+        "english": "Erwartungen",
+        "german": "Erwartungen"
+    },
+    {
+        "english": "Actual & target situation Retirement planning",
+        "german": "Ist & Soll Situation Altervorsorge "
+    },
+    {
+        "english": "Budget planning",
+        "german": "Budgetplanung "
+    },
+    {
+        "english": "Targets",
+        "german": "Ziele"
+    },
+    {
+        "english": "Summary",
+        "german": "Zusammenfassung"
+    },
+    {
+        "english": "Future",
+        "german": "Zukunft"
+    },
+    {
+        "english": "Back",
+        "german": "Zurück"
+    },
+    {
+        "english": "Next",
+        "german": "Weiter"
+    },
+    {
+        "english": "Date of birth",
+        "german": "Geburtsdatum"
+    },
+    {
+        "english": "Occupation",
+        "german": "Beruf"
+    },
+    {
+        "english": "Number of persons in the household",
+        "german": "Anzahl Personen im Haushalt"
+    },
+    {
+        "english": "Questions",
+        "german": "Fragen"
+    },
+    {
+        "english": "When was the last time you spoke with your financial advisor?",
+        "german": "Wann hatten Sie Ihr letztes Gespräch mit ihrem/ihrer Kundenberater/in im Bereich Finanzen?"
+    },
+
+    {
+        "english": "How satisfied were you with the conversation (scale 1-10)?",
+        "german": "Wie zufrieden waren Sie, mit dem Gesprich (Skala 1-10)?"
+    },{
+        "english": "What was positive about the conversation?",
+        "german": "Was war positiv an ihrem Gespräch?"
+    },
+    {
+        "english": "What was negative about the conversation?",
+        "german": "Was war negativ an ihrem Gespräch?"
+    },
+
+    {
+        "english": "What expectations did you have and were they fulfilled?",
+        "german": "Welche Erwartungen hatten Sie und wurden sie erfiilit?"
+    },
+    {
+        "english": "Actual & target situation",
+        "german": "Ist & Soll Situation"
+    },
+    {
+        "english": "Car insurance",
+        "german": "Autoversicherung"
+    },
+    {
+        "english": "Legal protection insurance",
+        "german": "Rechtsschutzversiecherung"
+    },
+    {
+        "english": " Household insurance",
+        "german": "RegHausrat"
+    },
+    {
+        "english": "Retirement provision",
+        "german": "Altervorsorge"
+    },
+    {
+        "english": "Where do you stand today",
+        "german": "Wo stehen Sie heute "
+    },
+    {
+        "english": "Income",
+        "german": "Einnahmen"
+    },
+    {
+        "english": "Amount(in CHF)",
+        "german": "Betrag(in CHF)"
+    },
+
+    {
+        "english": "Number of monthly wages:",
+        "german": "Anzahl Monatslöhne:"
+    },
+    {
+        "english": "13x (if 13x, annual salary / 12",
+        "german": "13x (falls 13x, Jahreslohn / 12"
+    },
+    {
+        "english": "How much do you earn monthly?",
+        "german": "Wie viel verdenen Sie monatlich?"
+    },
+    {
+        "english": "Gross monthly wage",
+        "german": "Brutte Monatslöhne"
+    },
+    {
+        "english": "Net monthly wage",
+        "german": "Neto Monatslöhne"
+    },
+    {
+        "english": "What additional regular income do you have monthly?",
+        "german": "Welche zusarzlichen regelmassingen Einnahmen haben Sie monatlich?"
+    },
+    {
+        "english": "What one-time inflows do you have?",
+        "german": "Welche einmaligen Zuflüsse haben Sie?"
+    },
+    {
+        "english": "Partner income",
+        "german": "Einnahmen Partner"
+    },
+    {
+        "english": "Expenses (monthly)",
+        "german": "Ausgaben (monatlich)"
+    },
+    {
+        "english": "Housing (rent, utilities)",
+        "german": "Wohnen (Miete, Nebenkosten)"
+    },
+    {
+        "english": "Taxes",
+        "german": "Steuern"
+    },
+    {
+        "english": "Health insurance",
+        "german": "Krankenkasse"
+    },
+    {
+        "english": "Insurances (e.g. car, House, legal protection, etc.)",
+        "german": "Versicherungen (z.B. Auto, Hausrat, Rechtsschutz, usw)"
+    },
+    {
+        "english": "Food, drink (smoking)",
+        "german": "Essen, Trinken (Rauchen)"
+    },
+    {
+        "english": "Mobility (leasing, fuel, transport(maybe), road taxes)",
+        "german": "Mobilitat (Leasing, Treibstaff, OVV, Strassenabgaben)"
+    },
+    {
+        "english": "Internet, telephone, television, services",
+        "german": "Internet, Telefon, Fransehen, Serafe"
+    },
+
+    {
+        "english": "Other (hobbies, credit, alimony)",
+        "german": "Sonstiges (Hobbys, Kredit, Alimente)"
+    },
+    {
+        "english": "Total income (E)",
+        "german": "Summe Einnahmen (E)"
+    },
+
+    {
+        "english": "Total expenses (A) ",
+        "german": "Summe Ausgaben (A)"
+    },
+    {
+        "english": "Budget (E-A)",
+        "german": "Budget (E-A)"
+    },
+    {
+        "english": "Liquidity",
+        "german": "Liquiditat"
+    },
+    {
+        "english": "Standard of living maintain ",
+        "german": "Lebensstandard erhalten "
+    },
+    {
+        "english": "Car purchase",
+        "german": "Auto anschaffen"
+    },
+    {
+        "english": "Security for my children",
+        "german": "Sicherheit fur meine Kinder "
+    },
+    {
+        "english": "Further education",
+        "german": "Weiterbildung"
+    },
+    {
+        "english": "Home ownership",
+        "german": "Eigenheim"
+    },
+    {
+        "english": "World trip/travel",
+        "german": "Weltreise/Reisen"
+    },
+    {
+        "english": "Other",
+        "german": "Andere"
+    },
+    {
+        "english": "Period",
+        "german": "Zeitraum"
+    },{
+        "english": "CURRENT",
+        "german": "AKTUELL"
+    },
+    {
+        "english": "SHOULD DATE",
+        "german": "SOLL TERMIN"
+    },
+    {
+        "english": "HEALTH INSURANCE",
+        "german": "KRANKENKASSE"
+    },
+    {
+        "english": "CAR INSURANCE",
+        "german": "AUTOVERSICHERUNG"
+    },
+    {
+        "english": "LEGAL INSURANCE",
+        "german": "RECHTSSCHUTZ"
+    },
+    {
+        "english": "HOUSEHOLD/PRIVATE LIABILITY",
+        "german": "HAUSRAT/PRIVATHAFTPFLICHT"
+    },
+    {
+        "english": "OLD AGE PROVISION",
+        "german": "ALTERVORSORGE"
+    },
+    {
+        "english": "Which of these topics are you also interested in? real estate/home ",
+        "german": "Welche dieser Themen interessieren dich auch noch?"
+    },
+    {
+        "english": "Real estate/home",
+        "german": "Immobilien/Eigenheim "
+    },
+    {
+        "english": "Perennial",
+        "german": "Stauern"
+    },
+    {
+        "english": "Credit",
+        "german": "Kredit"
+    },
+    {
+        "english": "Career",
+        "german": "Karriere"
+    },
+    {
+        "english": "Bank",
+        "german": "Bank"
+    },
+    {
+        "english": "Finish",
+        "german": "Geschehen"
+    },
+    {
+        "english": "The data has been submitted.",
+        "german": "The data has been submitted."
+    },
+    {
+        "english": "Add new",
+        "german": "Neu hinzufügen"
+    },
+    {
+        "english": "Reset password",
+        "german": "Kennwort zurücksetzen"
+    },
+    {
+        "english": "Don't have an account?",
+        "german": "Sie haben noch kein Konto?"
+    },
+    {
+        "english": "Repeat password",
+        "german": "Kennwort wiederholen"
+    },
+    {
+        "english": "Already registered?",
+        "german": "Schon registriert?"
+    },
+    {
+        "english": "Hello",
+        "german": "Hallo"
+    },
+    {
+        "english": "Waiting List",
+        "german": "Warteliste"
+    },
+    {
+        "english": "Notes",
+        "german": "Anmerkungen"
+    },
+    {
+        "english": "History",
+        "german": "Geschichte"
+    },
+    {
+        "english": "Consultation Protocol",
+        "german": "Konsultationsprotokoll"
+    },
+    {
+        "english": "Applications",
+        "german": "Anwendungen"
+    },
+    {
+        "english": "Leads status information",
+        "german": "Leads-Statusinformationen"
+    },
+    {
+        "english": "Switch light/dark mode",
+        "german": "Light/Dark-Modus umschalten"
+    },
+    {
+        "english": "Customers",
+        "german": "Kunden"
+    },
+    {
+        "english": "Agent Management",
+        "german": "Agentenverwaltung"
+    },
+    {
+        "english": "Task Management",
+        "german": "Aufgabenmanagement"
+    }
+]

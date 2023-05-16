@@ -1,0 +1,761 @@
+const translations = `
+Log In        
+
+Einloggen 
+
+Sign Up 
+
+Anmelden 
+
+Email 
+
+E-Mail Adresse 
+
+Your email 
+
+Ihre E-Mail 
+
+Password 
+
+Kennwort 
+
+Remember me 
+
+Erinnern Sie sich an mich 
+
+Forgot password? 
+
+Passwort vergessen? 
+
+Don’t have an account?  
+
+Sie haben noch kein Konto? 
+
+Register 
+
+Anmelden 
+
+First name 
+
+Vorname 
+
+Last name 
+
+Nachname 
+
+Your email 
+
+Ihre E-Mail 
+
+Repeat password 
+
+Passwort wiederholen 
+
+Join our community 
+
+Unserer Gemeinschaft beitreten 
+
+Dashboard 
+
+Dashboard 
+
+Costumers 
+
+Kunden 
+
+Contracts 
+
+Verträge 
+
+Offers 
+
+Angebote 
+
+Calendar 
+
+Kalender 
+
+Leads 
+
+Leads 
+
+Feedback 
+
+Feedback 
+
+Tasks 
+
+Aufgaben 
+
+Billing 
+
+Billing 
+
+Statistics 
+
+Statistik 
+
+Help 
+
+Hilfe 
+
+Phone 
+
+Telefon 
+
+Documents 
+
+Dokumente 
+
+Mandate 
+
+Mandanten 
+
+Telefonparty 
+
+Telefonparty 
+
+Search name  
+
+Name suchen 
+
+Date of birth 
+
+Geburtsdatum 
+
+Weather 
+
+Wetter 
+
+Today 
+
+Heute 
+
+Tomorrow 
+
+Morgen 
+
+Sunday 
+
+Sonntag 
+
+New leads 
+
+Neue Lead 
+
+Callbacks 
+
+Rückrufe 
+
+Completed 
+
+Abgeschlossene 
+
+Total leads 
+
+Leads insgesamt 
+
+No tasks 
+
+Keine Aufgaben 
+
+Date added 
+
+Datum hinzugefügt 
+
+Actions  
+
+Aktionen 
+
+Birthday 
+
+Geburtstag 
+
+Place 
+
+Ort 
+
+Phone 
+
+Telefon 
+
+Info 
+
+Info 
+
+Status 
+
+Status 
+
+All 
+
+Alle 
+
+Number of costumers 
+
+Anzahl der Kunden 
+
+Anzahl total 
+
+Anzahl insgesamt 
+
+Pending 
+
+Ausstehend 
+
+Approved 
+
+Genehmigt 
+
+Declined 
+
+Abgelehnt 
+
+Insurance 
+
+Versicherung 
+
+Last change 
+
+Letzte Bearbeitung 
+
+Sent on 
+
+Gesendet am 
+
+Type 
+
+Typ 
+
+Sach und leben 
+
+Sach und leben 
+
+Request offers 
+
+Offerten anfragen 
+
+health insurance 
+
+Krankenkasse 
+
+All leads 
+
+Alle Leads 
+
+New leads 
+
+Neue leads 
+
+Call back 
+
+Rückrufe 
+
+Invalid lead 
+
+Ungültiger Lead 
+
+Double 
+
+Doppeltes 
+
+Not reached 
+
+Nicht erreicht 
+
+Not interested 
+
+Nicht interessiert 
+
+Not consulted 
+
+Nicht konsultiert 
+
+Scheduled 1st visit 
+
+Geplanter 1. Besuch 
+
+Visited 1st time 
+
+1. Mal besucht 
+
+Offer sent 
+
+Angebot gesendet 
+
+Pending 
+
+Ausstehend 
+
+Accepted offer 
+
+Angenommenes Angebot 
+
+Scheduled 2nd visit 
+
+Geplanter 2. Besuch 
+
+Visited 1st time 
+
+2. Mal besucht 
+
+Completed  
+
+Abgeschlossen 
+
+Select date 
+
+Datum wählen 
+
+Canton 
+
+Kanton 
+
+Created date 
+
+Erstelltes Datum 
+
+Agent 
+
+Berater 
+
+Status 
+
+Status 
+
+Takes place on 
+
+Erledigt am 
+
+Show completed task 
+
+Erledigte Aufgabe anzeigen 
+
+Note  
+
+Hinweis 
+
+Category  
+
+Kategorie 
+
+Explanatory videos  
+
+Erläuternde Videos 
+
+Salutation 
+
+Anrede 
+
+Street  
+
+Straße 
+
+Source 
+
+Quelle 
+
+Actual insurance 
+
+Aktuell Versicherung 
+
+Day 
+
+Tag 
+
+Week 
+
+Woche 
+
+Month 
+
+Monat 
+
+  Days  
+
+Tage 
+
+Add event 
+
+Event hinzufügen 
+
+Add PDF file 
+
+PDF-Datei hinzufügen 
+
+Status color 
+
+Statusfarbe 
+
+Create user 
+
+Brater  hinzufügen 
+
+Rows per page 
+
+Zeilen pro Seite 
+
+No data available 
+
+Keine Daten verfügbar 
+
+Active  
+
+Aktiv 
+
+Disabled  
+
+Behindert 
+
+Role 	 
+
+Rolle 
+
+Are you sure you want 
+
+To delete this item? 
+
+Möchten Sie dieses Element wirklich löschen? 
+
+ 
+
+cancel 
+
+abbrechen 
+
+Update 
+
+Aktualisieren 
+
+1 of 12 
+
+1 von 12 
+
+Policies  
+
+Richtlinien 
+
+Type  
+
+Typ 
+
+Archived  
+
+Archiviert 
+
+Commissioned  
+
+Beauftragt 
+
+End 
+
+Ende 
+
+Beginning  
+
+Anfang 
+
+Update  
+
+Aktualisierung 
+
+ 
+
+ 
+
+Price  
+
+Preis 
+
+Franchise 
+
+Franchise 
+
+And 5 more errors 
+
+Und 5 weitere Fehler 
+
+The “first name” field is required 
+
+Das Feld "Vorname" ist erforderlich 
+
+Family member 
+
+Familienmitglied 
+
+Add family member 
+
+Familienmitglied hinzufügen 
+
+Notification  
+
+Benachrichtigung 
+
+Profile 
+
+Profil 
+
+Log  out 
+
+Abmelden 
+
+No tasks 
+
+Keine Aufgaben 
+
+File input 
+
+Datei-Eingabe 
+
+0 files 
+
+0 Dateien 
+
+0 B in total 
+
+0 B insgesamt 
+
+Import  
+
+Importieren  
+
+Download sample list 
+
+Musterliste herunterladen 
+
+Not found 
+
+Nicht gefunden 
+
+The resource requested could not be found on this server 
+
+Die angeforderte Ressource konnte nicht auf diesem Server gefunden werden 
+
+Persons  
+
+Personen 
+
+Eigener lead 
+
+Eigene Führung 
+
+Fb kampange 
+
+Fb kampange 
+
+Help friends 
+
+Freunde helfen 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Weiterempfehlungen  
+
+Weiterempfehlungen  
+
+Call- extern 
+
+Anrufe extern 
+
+Call-backup 
+
+Rückrufservice 
+
+Call 
+
+Anrufen 
+
+Actual insurance company 
+
+Aktuelle Versicherungsgesellschaft 
+
+Insurance company  
+
+Versicherungsgesellschaft  
+
+Admin 
+
+Verwaltung 
+
+Task name 
+
+Name der Aufgabe 
+
+Agents list 
+
+Liste der Beraters 
+
+To get done 
+
+Zu erledigen 
+
+Done  
+
+Erledigt  
+
+Open  
+
+öffnen  
+
+Obtain documents 
+
+Dokumente beschaffen 
+
+Attachment  
+
+Anlage  
+
+Upload  
+
+Hochladen  
+
+Please select a file 
+
+Bitte wählen Sie eine Datei aus 
+
+Reach by 
+
+Erreichen durch 
+
+Top achiever of the month 
+
+Spitzenreiter des Monats 
+
+From- to date 
+
+Von-bis-Datum 
+
+Download  
+
+Herunterladen  
+
+Insurance package 
+
+Versicherungspaket 
+
+Agent name 
+
+Name des Beraters 
+
+Finish  
+
+Fertigstellen  
+
+Pay sub 
+
+Sub bezahlen 
+
+Total  
+
+Gesamt  
+
+Title  
+
+Titel  
+
+Feedback zu spat 
+
+Feedback zu spucken 
+
+Show completed tasks 
+
+Erledigte Aufgaben anzeigen 
+
+Costumer name 
+
+Kundenname 
+
+January-december (translate all months) 
+
+Januar  
+
+ 
+
+Februar  
+
+ 
+
+März  
+
+ 
+
+April  
+
+ 
+
+Mai  
+
+ 
+
+Juni  
+
+ 
+
+Juli  
+
+ 
+
+August  
+
+ 
+
+September  
+
+ 
+
+Oktober  
+
+ 
+
+November  
+
+ 
+
+Dezember  
+
+ 
+
+ 
+
+Data updated successfully  
+
+Daten erfolgreich aktualisiert 
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ `;
+
+const translations_ready_for_json = translations.split("\n").filter(t => t != '');
+
+const json = [];
+
+for(let i = 0; i < translations_ready_for_json.length; i = i + 2) {
+    const info = {
+        english: translations_ready_for_json[i],
+        german: translations_ready_for_json[i + 1]
+    }
+    
+    json.push(info)
+}
+
+document.getElementById('script').innerHTML = JSON.stringify(json);
+
+// const file = new File(json, "CONVERTED.json", { type: 'application/json' });

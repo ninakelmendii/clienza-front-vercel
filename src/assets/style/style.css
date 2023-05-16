@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans&display=swap");
+
+body{
+  font-family: "PT Sans", sans-serif !important;
+}
+
+.theme--light .v-main__wrap {
+  background: #e5eff5;
+  padding: 25px;
+  font-family: "PT Sans", sans-serif;
+}
+
+.v-btn {
+  box-shadow: none;
+}
+
+.theme--light tbody tr:nth-of-type(odd) {
+  background-color: #f7f8ff !important;
+}
+
+.v-data-table tr td {
+  border: none !important;
+}
+
+.theme--dark tbody tr:nth-of-type(odd) {
+  background-color: #2c2c2c !important;
+}
+
+.theme--dark .v-main__wrap {
+  padding: 25px;
+  font-family: "PT Sans", sans-serif;
+}
